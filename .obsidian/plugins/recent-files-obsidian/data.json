@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "简历",
-      "path": "简历.md"
+      "basename": "IndexDB频繁插入问题",
+      "path": "Front End/IndexDB频繁插入问题.md"
     },
     {
       "basename": "React useReducer 和 redux 的区别",
@@ -195,10 +195,6 @@
     {
       "basename": "JavaScript深度复习",
       "path": "Front End/JavaScript深度复习.md"
-    },
-    {
-      "basename": "IndexDB频繁插入问题",
-      "path": "Front End/IndexDB频繁插入问题.md"
     }
   ],
   "omittedPaths": [],
