@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "b7f0e622b28d47dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b718033d3bd62124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf5809f40e81b91",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front End/复习大纲(2025).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "复习大纲(2025)"
+            }
+          },
+          {
+            "id": "d5015214baf9796d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front End/notes/React/React useReducer 和 redux 的区别.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React useReducer 和 redux 的区别"
+            }
+          },
+          {
+            "id": "e82041c578637e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "简历.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "简历"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddd8ebe2976042ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd774a73f97724db",
+        "type": "tabs",
+        "dimension": 64.11111111111111,
+        "children": [
+          {
+            "id": "4ec8ba9c50d03edc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "37c6a5c0ac03cfe4",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6fa8280b65e5f5a5",
+        "type": "tabs",
+        "dimension": 35.888888888888886,
+        "children": [
+          {
+            "id": "6bb3f7aa564cbea1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5
+  },
+  "right": {
+    "id": "d545b9c87f384fbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "810ffd1021f08424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1804e8e4ec3f877",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "简历.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "简历 的大纲"
+            }
+          },
+          {
+            "id": "71b601d3b10c1d33",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f26ab77ed553840f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0e6eb6ed4f15271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87de03ccac077fe8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f62863022b7a4ce5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "d4a1a214278ae9fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b61dd29445ea5f2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"模板/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b1b4e20b3e8e7fb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "todoist-completed-tasks-plugin:Fetch today's completed tasks": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "e82041c578637e40",
+  "lastOpenFiles": [
+    "简历.md",
+    "Front End/notes/React/React useReducer 和 redux 的区别.md",
+    "Front End/面经.md",
+    "Front End/notes/React/React useEffect 模拟生命周期.md",
+    "Front End/notes/React/React 监听组件报错.md",
+    "Front End/notes/React/React 中什么是合成事件.md",
+    "Front End/notes/React/Redux 中间件的原理.md",
+    "Front End/notes/React/useId.md",
+    "Front End/notes/React/React18 的 setState 变化.md",
+    "Front End/notes/React/React 的 Hooks 原理是什么.md",
+    "Front End/notes/React/React 的一些优化.md",
+    "Front End/notes/React/React 的一些坑.md",
+    "Front End/notes/React/React.memo 是如何实现性能优化的.md",
+    "Front End/notes/React/React setState经典面试题.md",
+    "Front End/notes/React/React Render Props.md",
+    "Front End/notes/React/React Protals.md",
+    "Front End/notes/React/React Hooks的注意事项.md",
+    "Front End/notes/React/React Hooks背后的原理.md",
+    "Front End/notes/React/React Fiber.md",
+    "Front End/notes/React/React Component 中为什么在事件中要使用bind.md",
+    "Front End/notes/React/React Class组件和函数组件.md",
+    "Front End/notes/React/React batchUpdate机制.md",
+    "Front End/notes/React/React 组件渲染和更新过程.md",
+    "Front End/notes/React/React 自定义Hooks.md",
+    "Front End/notes/React/React 有没有使用过Hooks,它有哪些便利.md",
+    "Front End/notes/React/React 异步组件.md",
+    "notes",
+    "Front End/notes/其他问题",
+    "Front End/notes/React/自定义Hook",
+    "Annex/Pasted image 20251113103841.png",
+    "Annex/Pasted image 20251113101133.png",
+    "Front End/notes/浏览器原理/跨域的解决方案",
+    "Front End/notes/浏览器原理",
+    "Annex/Pasted image 20251103130836.png",
+    "模板",
+    "Front End/notes/JS基础问题",
+    "Front End/notes/未命名文件夹",
+    "Front End/JavaScript高级程序设计",
+    "Front End/JavaScript",
+    "Annex/Pasted image 20240601171807.png",
+    "Annex/Pasted image 20240601171333.png",
+    "Annex/Pasted image 20240601171222.png",
+    "Annex/Pasted image 20240601171017.png",
+    "Annex/Pasted image 20240601170611.png",
+    "Annex/Pasted image 20240601170455.png",
+    "Annex/Pasted image 20240601170414.png"
+  ]
+}

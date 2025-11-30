@@ -1,0 +1,10 @@
+{
+  "settingsVersion": 5,
+  "keywordSegmentStart": "%% todos %%",
+  "keywordSegmentEnd": "%% todoe %%",
+  "authToken": "1f4d216cd5bbcf32cab15624d5946196960f6362",
+  "taskPrefix": "- [x]",
+  "taskPostfix": "Keep it up!",
+  "renderSubtasks": true,
+  "renderProjectsHeaders": true
+}

@@ -1,0 +1,3 @@
+#面试题 
+
+webpack启动后会在entry配置的module开始递归解析， 每找到一个module，就会根据配置loader的去找对应的转换规则，对module进行转换后开始解析module所依赖的module，然后这些模块以entry分组，一个entry和所有相依赖的模块对应一个chunk，最后webpack会把有所有的chunk转换成文件输出，在整个流程中，webpack会在恰当的时机执行plugin的逻辑。

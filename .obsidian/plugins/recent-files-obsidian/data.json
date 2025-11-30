@@ -1,0 +1,210 @@
+{
+  "recentFiles": [
+    {
+      "basename": "简历",
+      "path": "简历.md"
+    },
+    {
+      "basename": "React useReducer 和 redux 的区别",
+      "path": "Front End/notes/React/React useReducer 和 redux 的区别.md"
+    },
+    {
+      "basename": "面经",
+      "path": "Front End/面经.md"
+    },
+    {
+      "basename": "React useEffect 模拟生命周期",
+      "path": "Front End/notes/React/React useEffect 模拟生命周期.md"
+    },
+    {
+      "basename": "React 监听组件报错",
+      "path": "Front End/notes/React/React 监听组件报错.md"
+    },
+    {
+      "basename": "React 中什么是合成事件",
+      "path": "Front End/notes/React/React 中什么是合成事件.md"
+    },
+    {
+      "basename": "Redux 中间件的原理",
+      "path": "Front End/notes/React/Redux 中间件的原理.md"
+    },
+    {
+      "basename": "useId",
+      "path": "Front End/notes/React/useId.md"
+    },
+    {
+      "basename": "React18 的 setState 变化",
+      "path": "Front End/notes/React/React18 的 setState 变化.md"
+    },
+    {
+      "basename": "React 的 Hooks 原理是什么",
+      "path": "Front End/notes/React/React 的 Hooks 原理是什么.md"
+    },
+    {
+      "basename": "React 的一些优化",
+      "path": "Front End/notes/React/React 的一些优化.md"
+    },
+    {
+      "basename": "React 的一些坑",
+      "path": "Front End/notes/React/React 的一些坑.md"
+    },
+    {
+      "basename": "React.memo 是如何实现性能优化的",
+      "path": "Front End/notes/React/React.memo 是如何实现性能优化的.md"
+    },
+    {
+      "basename": "React setState经典面试题",
+      "path": "Front End/notes/React/React setState经典面试题.md"
+    },
+    {
+      "basename": "React Render Props",
+      "path": "Front End/notes/React/React Render Props.md"
+    },
+    {
+      "basename": "React Protals",
+      "path": "Front End/notes/React/React Protals.md"
+    },
+    {
+      "basename": "React Hooks的注意事项",
+      "path": "Front End/notes/React/React Hooks的注意事项.md"
+    },
+    {
+      "basename": "React Hooks背后的原理",
+      "path": "Front End/notes/React/React Hooks背后的原理.md"
+    },
+    {
+      "basename": "React Fiber",
+      "path": "Front End/notes/React/React Fiber.md"
+    },
+    {
+      "basename": "React Component 中为什么在事件中要使用bind",
+      "path": "Front End/notes/React/React Component 中为什么在事件中要使用bind.md"
+    },
+    {
+      "basename": "React Class组件和函数组件",
+      "path": "Front End/notes/React/React Class组件和函数组件.md"
+    },
+    {
+      "basename": "React batchUpdate机制",
+      "path": "Front End/notes/React/React batchUpdate机制.md"
+    },
+    {
+      "basename": "React 组件渲染和更新过程",
+      "path": "Front End/notes/React/React 组件渲染和更新过程.md"
+    },
+    {
+      "basename": "React 自定义Hooks",
+      "path": "Front End/notes/React/React 自定义Hooks.md"
+    },
+    {
+      "basename": "React 有没有使用过Hooks,它有哪些便利",
+      "path": "Front End/notes/React/React 有没有使用过Hooks,它有哪些便利.md"
+    },
+    {
+      "basename": "React 异步组件",
+      "path": "Front End/notes/React/React 异步组件.md"
+    },
+    {
+      "basename": "React 渲染列表为何用key",
+      "path": "Front End/notes/React/React 渲染列表为何用key.md"
+    },
+    {
+      "basename": "React 为什么要实现虚拟DOM",
+      "path": "Front End/notes/React/React 为什么要实现虚拟DOM.md"
+    },
+    {
+      "basename": "React 为什么不能在表达式里面使用hooks",
+      "path": "Front End/notes/React/React 为什么不能在表达式里面使用hooks.md"
+    },
+    {
+      "basename": "React 事件在最后追加一个参数，即可接收Event",
+      "path": "Front End/notes/React/React 事件在最后追加一个参数，即可接收Event.md"
+    },
+    {
+      "basename": "React 事件和 DOM 事件的区别",
+      "path": "Front End/notes/React/React 事件和 DOM 事件的区别.md"
+    },
+    {
+      "basename": "React 认识Hooks",
+      "path": "Front End/notes/React/React 认识Hooks.md"
+    },
+    {
+      "basename": "React 和 Vue 的区别",
+      "path": "Front End/notes/React/React 和 Vue 的区别.md"
+    },
+    {
+      "basename": "React 更新的两个阶段",
+      "path": "Front End/notes/React/React 更新的两个阶段.md"
+    },
+    {
+      "basename": "React 高阶组件（HOC）",
+      "path": "Front End/notes/React/React 高阶组件（HOC）.md"
+    },
+    {
+      "basename": "React 的副作用",
+      "path": "Front End/notes/React/React 的副作用.md"
+    },
+    {
+      "basename": "React 的 setState是微任务还是宏任务",
+      "path": "Front End/notes/React/React 的 setState是微任务还是宏任务.md"
+    },
+    {
+      "basename": "React 的 setState",
+      "path": "Front End/notes/React/React 的 setState.md"
+    },
+    {
+      "basename": "React 的 createContext",
+      "path": "Front End/notes/React/React 的 createContext.md"
+    },
+    {
+      "basename": "React 的 性能优化",
+      "path": "Front End/notes/React/React 的 性能优化.md"
+    },
+    {
+      "basename": "React 的 受控组件和非受控组件",
+      "path": "Front End/notes/React/React 的 受控组件和非受控组件.md"
+    },
+    {
+      "basename": "React 不可变值被修改",
+      "path": "Front End/notes/React/React 不可变值被修改.md"
+    },
+    {
+      "basename": "React 不可变值 immutable.js",
+      "path": "Front End/notes/React/React 不可变值 immutable.js.md"
+    },
+    {
+      "basename": "React 18特性",
+      "path": "Front End/notes/React/React 18特性.md"
+    },
+    {
+      "basename": "React 17 版本 事件绑定在Root",
+      "path": "Front End/notes/React/React 17 版本 事件绑定在Root.md"
+    },
+    {
+      "basename": "复习大纲(2025)",
+      "path": "Front End/复习大纲(2025).md"
+    },
+    {
+      "basename": "React 原理复习",
+      "path": "Front End/notes/React/自定义Hook/React 原理复习.md"
+    },
+    {
+      "basename": "Promise 经典面试题",
+      "path": "Front End/notes/JS基础问题/Promise 经典面试题.md"
+    },
+    {
+      "basename": "JavaScript深度复习",
+      "path": "Front End/JavaScript深度复习.md"
+    },
+    {
+      "basename": "IndexDB频繁插入问题",
+      "path": "Front End/IndexDB频繁插入问题.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
+  "maxLength": null,
+  "openType": "tab"
+}

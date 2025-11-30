@@ -1,0 +1,6 @@
+{
+  "template": "每日计划模板",
+  "folder": "Plans",
+  "autorun": false,
+  "format": "每日计划 YYYY-MM-DD"
+}
