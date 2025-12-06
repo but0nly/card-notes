@@ -1,16 +1,172 @@
 {
   "recentFiles": [
     {
-      "basename": "IndexDB频繁插入问题",
-      "path": "Front End/IndexDB频繁插入问题.md"
+      "basename": "AST 抽象语法树",
+      "path": "Front End/AST 抽象语法树.md"
+    },
+    {
+      "basename": "前端工程化基础",
+      "path": "Front End/前端工程化基础.md"
+    },
+    {
+      "basename": "前端优化有哪些",
+      "path": "Front End/notes/前端优化/前端优化有哪些.md"
+    },
+    {
+      "basename": "如何学习一门新的语言？要考虑什么",
+      "path": "Front End/notes/软技能/如何学习一门新的语言？要考虑什么.md"
+    },
+    {
+      "basename": "同源策略",
+      "path": "Front End/notes/网络/同源策略.md"
+    },
+    {
+      "basename": "TCP 三次握手和四次挥手",
+      "path": "Front End/notes/网络/TCP 三次握手和四次挥手.md"
+    },
+    {
+      "basename": "React 原理复习",
+      "path": "Front End/notes/React/自定义Hook/React 原理复习.md"
+    },
+    {
+      "basename": "typescript的作用",
+      "path": "Front End/notes/TypeScript/typescript的作用.md"
+    },
+    {
+      "basename": "typescript的原理",
+      "path": "Front End/notes/TypeScript/typescript的原理.md"
+    },
+    {
+      "basename": "Vite",
+      "path": "Front End/notes/Vite/Vite.md"
+    },
+    {
+      "basename": "Vuex mutation和action",
+      "path": "Front End/notes/Vue 基本问题/Vuex mutation和action.md"
+    },
+    {
+      "basename": "Vue什么时候操作DOM最合适",
+      "path": "Front End/notes/Vue 基本问题/Vue什么时候操作DOM最合适.md"
+    },
+    {
+      "basename": "Vue 的通信方式，全面一点",
+      "path": "Front End/notes/Vue 基本问题/Vue 的通信方式，全面一点.md"
+    },
+    {
+      "basename": "Vue  Keep-alive 的 实现原理",
+      "path": "Front End/notes/Vue 基本问题/Vue  Keep-alive 的 实现原理.md"
+    },
+    {
+      "basename": "Webpack 拆包要注意什么",
+      "path": "Front End/notes/Webpack/Webpack 拆包要注意什么.md"
+    },
+    {
+      "basename": "webpack 如何优化体积",
+      "path": "Front End/notes/Webpack/webpack 如何优化体积.md"
+    },
+    {
+      "basename": "Webpack执行流程",
+      "path": "Front End/notes/Webpack/Webpack执行流程.md"
+    },
+    {
+      "basename": "Webpack 原理复习",
+      "path": "Front End/notes/Webpack/Webpack 原理复习.md"
+    },
+    {
+      "basename": "webpack的核心概念",
+      "path": "Front End/notes/Webpack/webpack的核心概念.md"
+    },
+    {
+      "basename": "复习大纲(2025)",
+      "path": "Front End/复习大纲(2025).md"
+    },
+    {
+      "basename": "浏览器原理复习",
+      "path": "Front End/notes/浏览器原理复习.md"
+    },
+    {
+      "basename": "浏览器性能优化指标",
+      "path": "Front End/notes/浏览器原理/浏览器性能优化指标.md"
+    },
+    {
+      "basename": "HTTP 缓存",
+      "path": "Front End/notes/网络/HTTP 缓存.md"
+    },
+    {
+      "basename": "跨域",
+      "path": "Front End/notes/浏览器原理/跨域.md"
+    },
+    {
+      "basename": "跨域的解决方案",
+      "path": "Front End/notes/浏览器原理/跨域的解决方案.md"
+    },
+    {
+      "basename": "浏览器的事件机制",
+      "path": "Front End/notes/浏览器原理/浏览器的事件机制.md"
+    },
+    {
+      "basename": "重排（回流）和重绘（2025）",
+      "path": "Front End/notes/浏览器原理/重排（回流）和重绘（2025）.md"
+    },
+    {
+      "basename": "从输入URL到页面展示的完整过程(2025)",
+      "path": "Front End/notes/浏览器原理/从输入URL到页面展示的完整过程(2025).md"
+    },
+    {
+      "basename": "JavaScript深度复习",
+      "path": "Front End/JavaScript深度复习.md"
+    },
+    {
+      "basename": "Event Loop的机制",
+      "path": "Front End/notes/JS基础问题/Event Loop的机制.md"
+    },
+    {
+      "basename": "async和await",
+      "path": "Front End/notes/JS基础问题/async和await.md"
+    },
+    {
+      "basename": "Promise 经典面试题",
+      "path": "Front End/notes/JS基础问题/Promise 经典面试题.md"
     },
     {
       "basename": "React useReducer 和 redux 的区别",
       "path": "Front End/notes/React/React useReducer 和 redux 的区别.md"
     },
     {
+      "basename": "Promise",
+      "path": "Front End/notes/JS基础问题/Promise.md"
+    },
+    {
+      "basename": "作用域链",
+      "path": "Front End/notes/JS基础问题/作用域链.md"
+    },
+    {
+      "basename": "Pasted image 20251103130836",
+      "path": "Annex/Pasted image 20251103130836.png"
+    },
+    {
+      "basename": "作用域",
+      "path": "Front End/notes/JS基础问题/作用域.md"
+    },
+    {
+      "basename": "原型和基于其的执行规则（原型链）",
+      "path": "Front End/notes/JS基础问题/原型和基于其的执行规则（原型链）.md"
+    },
+    {
+      "basename": "闭包",
+      "path": "Front End/notes/JS基础问题/闭包.md"
+    },
+    {
       "basename": "面经",
       "path": "Front End/面经.md"
+    },
+    {
+      "basename": "IndexDB频繁插入问题",
+      "path": "Front End/IndexDB频繁插入问题.md"
+    },
+    {
+      "basename": "工作流编排设计",
+      "path": "Front End/工作流编排设计.md"
     },
     {
       "basename": "React useEffect 模拟生命周期",
@@ -43,158 +199,6 @@
     {
       "basename": "React 的一些优化",
       "path": "Front End/notes/React/React 的一些优化.md"
-    },
-    {
-      "basename": "React 的一些坑",
-      "path": "Front End/notes/React/React 的一些坑.md"
-    },
-    {
-      "basename": "React.memo 是如何实现性能优化的",
-      "path": "Front End/notes/React/React.memo 是如何实现性能优化的.md"
-    },
-    {
-      "basename": "React setState经典面试题",
-      "path": "Front End/notes/React/React setState经典面试题.md"
-    },
-    {
-      "basename": "React Render Props",
-      "path": "Front End/notes/React/React Render Props.md"
-    },
-    {
-      "basename": "React Protals",
-      "path": "Front End/notes/React/React Protals.md"
-    },
-    {
-      "basename": "React Hooks的注意事项",
-      "path": "Front End/notes/React/React Hooks的注意事项.md"
-    },
-    {
-      "basename": "React Hooks背后的原理",
-      "path": "Front End/notes/React/React Hooks背后的原理.md"
-    },
-    {
-      "basename": "React Fiber",
-      "path": "Front End/notes/React/React Fiber.md"
-    },
-    {
-      "basename": "React Component 中为什么在事件中要使用bind",
-      "path": "Front End/notes/React/React Component 中为什么在事件中要使用bind.md"
-    },
-    {
-      "basename": "React Class组件和函数组件",
-      "path": "Front End/notes/React/React Class组件和函数组件.md"
-    },
-    {
-      "basename": "React batchUpdate机制",
-      "path": "Front End/notes/React/React batchUpdate机制.md"
-    },
-    {
-      "basename": "React 组件渲染和更新过程",
-      "path": "Front End/notes/React/React 组件渲染和更新过程.md"
-    },
-    {
-      "basename": "React 自定义Hooks",
-      "path": "Front End/notes/React/React 自定义Hooks.md"
-    },
-    {
-      "basename": "React 有没有使用过Hooks,它有哪些便利",
-      "path": "Front End/notes/React/React 有没有使用过Hooks,它有哪些便利.md"
-    },
-    {
-      "basename": "React 异步组件",
-      "path": "Front End/notes/React/React 异步组件.md"
-    },
-    {
-      "basename": "React 渲染列表为何用key",
-      "path": "Front End/notes/React/React 渲染列表为何用key.md"
-    },
-    {
-      "basename": "React 为什么要实现虚拟DOM",
-      "path": "Front End/notes/React/React 为什么要实现虚拟DOM.md"
-    },
-    {
-      "basename": "React 为什么不能在表达式里面使用hooks",
-      "path": "Front End/notes/React/React 为什么不能在表达式里面使用hooks.md"
-    },
-    {
-      "basename": "React 事件在最后追加一个参数，即可接收Event",
-      "path": "Front End/notes/React/React 事件在最后追加一个参数，即可接收Event.md"
-    },
-    {
-      "basename": "React 事件和 DOM 事件的区别",
-      "path": "Front End/notes/React/React 事件和 DOM 事件的区别.md"
-    },
-    {
-      "basename": "React 认识Hooks",
-      "path": "Front End/notes/React/React 认识Hooks.md"
-    },
-    {
-      "basename": "React 和 Vue 的区别",
-      "path": "Front End/notes/React/React 和 Vue 的区别.md"
-    },
-    {
-      "basename": "React 更新的两个阶段",
-      "path": "Front End/notes/React/React 更新的两个阶段.md"
-    },
-    {
-      "basename": "React 高阶组件（HOC）",
-      "path": "Front End/notes/React/React 高阶组件（HOC）.md"
-    },
-    {
-      "basename": "React 的副作用",
-      "path": "Front End/notes/React/React 的副作用.md"
-    },
-    {
-      "basename": "React 的 setState是微任务还是宏任务",
-      "path": "Front End/notes/React/React 的 setState是微任务还是宏任务.md"
-    },
-    {
-      "basename": "React 的 setState",
-      "path": "Front End/notes/React/React 的 setState.md"
-    },
-    {
-      "basename": "React 的 createContext",
-      "path": "Front End/notes/React/React 的 createContext.md"
-    },
-    {
-      "basename": "React 的 性能优化",
-      "path": "Front End/notes/React/React 的 性能优化.md"
-    },
-    {
-      "basename": "React 的 受控组件和非受控组件",
-      "path": "Front End/notes/React/React 的 受控组件和非受控组件.md"
-    },
-    {
-      "basename": "React 不可变值被修改",
-      "path": "Front End/notes/React/React 不可变值被修改.md"
-    },
-    {
-      "basename": "React 不可变值 immutable.js",
-      "path": "Front End/notes/React/React 不可变值 immutable.js.md"
-    },
-    {
-      "basename": "React 18特性",
-      "path": "Front End/notes/React/React 18特性.md"
-    },
-    {
-      "basename": "React 17 版本 事件绑定在Root",
-      "path": "Front End/notes/React/React 17 版本 事件绑定在Root.md"
-    },
-    {
-      "basename": "复习大纲(2025)",
-      "path": "Front End/复习大纲(2025).md"
-    },
-    {
-      "basename": "React 原理复习",
-      "path": "Front End/notes/React/自定义Hook/React 原理复习.md"
-    },
-    {
-      "basename": "Promise 经典面试题",
-      "path": "Front End/notes/JS基础问题/Promise 经典面试题.md"
-    },
-    {
-      "basename": "JavaScript深度复习",
-      "path": "Front End/JavaScript深度复习.md"
     }
   ],
   "omittedPaths": [],

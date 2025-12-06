@@ -24,35 +24,21 @@
             }
           },
           {
-            "id": "d5015214baf9796d",
+            "id": "3ea3f759c1d24421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front End/notes/React/React useReducer 和 redux 的区别.md",
+                "file": "Front End/AST 抽象语法树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React useReducer 和 redux 的区别"
-            }
-          },
-          {
-            "id": "e82041c578637e40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front End/IndexDB频繁插入问题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IndexDB频繁插入问题"
+              "title": "AST 抽象语法树"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front End/IndexDB频繁插入问题.md",
+                "file": "Front End/AST 抽象语法树.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "IndexDB频繁插入问题 的大纲"
+              "title": "AST 抽象语法树 的大纲"
             }
           },
           {
@@ -182,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Front End/AST 抽象语法树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "AST 抽象语法树 的反向链接列表"
             }
           },
           {
@@ -200,11 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Front End/AST 抽象语法树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "AST 抽象语法树 的出链列表"
             }
           },
           {
@@ -235,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,34 +246,35 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "e82041c578637e40",
+  "active": "3ea3f759c1d24421",
   "lastOpenFiles": [
-    "Front End/面试题/Tree-shaking.md",
-    "简历.md",
-    "Front End/notes/React/React useReducer 和 redux 的区别.md",
-    "Front End/面经.md",
-    "Front End/notes/React/React useEffect 模拟生命周期.md",
-    "Front End/notes/React/React 监听组件报错.md",
-    "Front End/notes/React/React 中什么是合成事件.md",
-    "Front End/notes/React/Redux 中间件的原理.md",
-    "Front End/notes/React/useId.md",
-    "Front End/notes/React/React18 的 setState 变化.md",
-    "Front End/notes/React/React 的 Hooks 原理是什么.md",
-    "Front End/notes/React/React 的一些优化.md",
-    "Front End/notes/React/React 的一些坑.md",
-    "Front End/notes/React/React.memo 是如何实现性能优化的.md",
-    "Front End/notes/React/React setState经典面试题.md",
-    "Front End/notes/React/React Render Props.md",
-    "Front End/notes/React/React Protals.md",
-    "Front End/notes/React/React Hooks的注意事项.md",
-    "Front End/notes/React/React Hooks背后的原理.md",
-    "Front End/notes/React/React Fiber.md",
-    "Front End/notes/React/React Component 中为什么在事件中要使用bind.md",
-    "Front End/notes/React/React Class组件和函数组件.md",
-    "Front End/notes/React/React batchUpdate机制.md",
-    "Front End/notes/React/React 组件渲染和更新过程.md",
-    "Front End/notes/React/React 自定义Hooks.md",
-    "Front End/notes/React/React 有没有使用过Hooks,它有哪些便利.md",
+    "Front End/前端工程化基础.md",
+    "Front End/AST 抽象语法树.md",
+    "Front End/notes/前端优化/前端优化有哪些.md",
+    "Front End/notes/软技能/如何学习一门新的语言？要考虑什么.md",
+    "Front End/notes/网络/同源策略.md",
+    "Front End/notes/网络/TCP 三次握手和四次挥手.md",
+    "Front End/notes/React/自定义Hook/React 原理复习.md",
+    "Front End/notes/TypeScript/typescript的作用.md",
+    "Front End/notes/TypeScript/typescript的原理.md",
+    "Front End/notes/Vite/Vite.md",
+    "Front End/notes/Vue 基本问题/Vuex mutation和action.md",
+    "Front End/notes/Vue 基本问题/Vue什么时候操作DOM最合适.md",
+    "Front End/notes/Vue 基本问题/Vue 的通信方式，全面一点.md",
+    "Front End/notes/Vue 基本问题/Vue  Keep-alive 的 实现原理.md",
+    "Front End/notes/Webpack/Webpack 拆包要注意什么.md",
+    "Front End/notes/Webpack/webpack 如何优化体积.md",
+    "Front End/notes/Webpack/Webpack执行流程.md",
+    "Front End/notes/Webpack/Webpack 原理复习.md",
+    "Front End/notes/Webpack/webpack的核心概念.md",
+    "Front End/复习大纲(2025).md",
+    "Front End/notes/浏览器原理复习.md",
+    "Front End/notes/浏览器原理/浏览器性能优化指标.md",
+    "Front End/notes/网络/HTTP 缓存.md",
+    "Front End/notes/浏览器原理/跨域.md",
+    "Front End/notes/浏览器原理/跨域的解决方案.md",
+    "Front End/notes/浏览器原理/浏览器的事件机制.md",
+    "Annex/Pasted image 20251103130836.png",
     "notes",
     "Front End/notes/其他问题",
     "Front End/notes/React/自定义Hook",
@@ -293,7 +282,6 @@
     "Annex/Pasted image 20251113101133.png",
     "Front End/notes/浏览器原理/跨域的解决方案",
     "Front End/notes/浏览器原理",
-    "Annex/Pasted image 20251103130836.png",
     "模板",
     "Front End/notes/JS基础问题",
     "Front End/notes/未命名文件夹",
